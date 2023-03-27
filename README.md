@@ -2,6 +2,10 @@
  M3U LISTS SCRAPER
 </h1> 
 
+<p align="center">
+<img src = 'https://techunwrapped.com/wp-content/uploads/2022/01/BeIN-Sports-has-several-pirate-streaming-sites-blocked.jpg)' width='800' height='400'> 
+</p>
+
 One day I sat in front of my TV trying to input different *free* IPTV ```m3u``` lists found on the Internet. Each of them contains different number of channels, and some of them span >20k channels. Since lightweight IPTV players (I have poor TV!) don't offer functionalities like "search channels" ([Tivimate](https://www.tivimate.org/en) doesn't!), and as some of the lists doesn't contain stuff I was looking for or they are lagging/having bad links you can imagine how much time I would spend scanning each list and testing if they have what I need.
 
 Out of all 10k+ channels + VOD stuff that IPTV resellers offer all I want is an access to some ```EX-YU``` (only ```HRT 3```, because they have **the perfect** choice of those non-Americana movies), ```Swedish``` (language learning) and ```French``` (language learning) channels. 
