@@ -1,4 +1,6 @@
-# m3u-lists-scraper
+<h1 align="center">
+ M3U LISTS SCRAPER
+</h1> 
 
 One day I sat in front of my TV trying to input different *free* IPTV ```m3u``` lists found on the Internet. Each of them contains different number of channels, and some of them span >20k channels. Since lightweight IPTV players (I have poor TV!) don't offer functionalities like "search channels" ([Tivimate](https://www.tivimate.org/en) doesn't!), and as some of the lists doesn't contain stuff I was looking for or they are lagging/having bad links you can imagine how much time I would spend scanning each list and testing if they have what I need.
 
